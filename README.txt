@@ -1,3 +1,11 @@
+This is the website for my consulting business. 
+Instead of devoting a lot of time to design, which I can appreciate but do not excel at, I used a beautiful design from HTML5 UP. See details below.
+I've customized it to meet my needs - including hiding some sections and adding others. 
+I used my new HTML/CSS and Git skills, mostly from freeCodeCamp and YouTube tutorials to accomplish this.
+
+
+
+The following is the README from the original HTML5 UP repository.
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
